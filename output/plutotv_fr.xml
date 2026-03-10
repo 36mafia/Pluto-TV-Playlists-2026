@@ -12786,6 +12786,11 @@ En essayant de trouver un léopard dans le vaste paysage désertique du sud de l
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260310175800 +0000" stop="20260310200600 +0000">
+        <title>Y'a que la vérité qui compte: Episode 39</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6130d9c712c2b000070abb50" start="20260310131900 +0000" stop="20260310134400 +0000">
         <title>Yu-Gi-Oh! FR: JEU DE MEMOIRE – 2ème PARTIE</title>
         <desc>Mai a l’intention de s’emparer de la carte de Dieu Egyptien de Marek. Réussira-t-elle ce coup de maître ?</desc>
@@ -20241,6 +20246,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260310221000 +0000">
+        <title>DAZN Combat</title>
+        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="650aff3398020f00086380cd" start="20260310173000 +0000" stop="20260310180000 +0000">
         <title>Le Figaro TV</title>
         <desc>Le Figaro Live : l'information en direct et en continu</desc>
@@ -24999,9 +25009,9 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <icon src="https://images.pluto.tv/series/66228e100fb7c10013ff6d8b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260310213000 +0000" stop="20260310221000 +0000">
-        <title>DAZN Ringside</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>DAZN Combat</title>
+        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260310221000 +0000" stop="20260310231600 +0000">
         <title>Boxing</title>
@@ -25136,6 +25146,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
     <programme channel="671643fc5534bb00089187ad" start="20260311014500 +0000" stop="20260311022800 +0000">
         <title>On the Oche</title>
         <desc>On The Oche: Episode 1- The Darts Referee joins Jake Kenyon for a chuck and a chat.</desc>
+        <icon src="https://images.pluto.tv/series/67e2e205e8cf62654292342c/tile_1757531603212.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671643fc5534bb00089187ad" start="20260311022800 +0000" stop="20260311030100 +0000">
+        <title>On the Oche</title>
+        <desc>Ashley Coleman joins Jake Kenyon for a chuck and a chat.</desc>
         <icon src="https://images.pluto.tv/series/67e2e205e8cf62654292342c/tile_1757531603212.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67921b78b83355184c667770" start="20260310213000 +0000" stop="20260310220000 +0000">
@@ -26298,6 +26313,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Kai dirige une opération de contrebande tandis que son frère policier, Chao, l’a toujours protégé. Après un deal raté qui cause la mort de leur père, Chao décide de changer radicalement d’attitude envers lui.</desc>
         <icon src="https://images.pluto.tv/series/69808248ec7e3a1f3acc79ec/tile_1770029641014.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20260311054054 +0000" stop="20260311071254 +0000">
+        <title>Dans l'œil du tigre</title>
+        <desc>Kelly est en charge de son petit frère Tom, 12 ans, qui est atteint d’autisme. Un soir, sous la menace d’un puissant ouragan qui approche, ils réalisent avec effroi qu’ils sont enfermés à l’intérieur de la maison, seuls…avec un tigre. La chasse commence…</desc>
+        <icon src="https://images.pluto.tv/series/638dda702da7ac0013998227/tile_1768352404850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed9461b35690007a0bc3a" start="20260311010726 +0000" stop="20260311015601 +0000">
         <title>Hantise: Retour à la maison Bergen</title>
         <desc>Cathy Heglund est forcée de retourner dans la maison qui a hanté son enfance. Lorsque les esprits deviennent agressifs, les chercheurs en paranormal et les médiums s'unissent pour lui donner ce qu'elle désire depuis des décennies... des réponses.</desc>
@@ -27315,6 +27335,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
     </programme>
     <programme channel="612e044c970e6f00083bcf3b" start="20260311035900 +0000" stop="20260311054100 +0000">
         <title>Y'a que la vérité qui compte: Épisode 47</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260311054100 +0000" stop="20260311073500 +0000">
+        <title>Y'a que la vérité qui compte: Episode 99</title>
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
