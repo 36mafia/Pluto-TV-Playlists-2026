@@ -21,6 +21,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add PlutoTV/my_channels.m3u8
+          git add -f output/my_channels.m3u8
           git diff --cached --quiet || git commit -m "Update filtered playlist $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
